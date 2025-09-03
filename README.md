@@ -17,7 +17,4 @@ A simple JavaScript application that generates secure and random passwords with 
 2. Copy the password with one click.
 
 ## Screenshot
-```bash
-   git clone https://github.com/amirh963/password-generator/tree/main
-
-![Screenshot](Screenshot.jpg)
+Screenshot.jpg
