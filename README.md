@@ -17,4 +17,4 @@ A simple JavaScript application that generates secure and random passwords with 
 2. Copy the password with one click.
 
 ## Screenshot
-Screenshot.jpg
+![Screenshot](Screenshot.jpg)
