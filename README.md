@@ -12,11 +12,12 @@ A simple JavaScript application that generates secure and random passwords with 
 - CSS
 - JavaScript
 
-## Screenshot
-Screenshot.jpg
-
 ## How to Use
 1. Click **Generate** to create a random password.
 2. Copy the password with one click.
 
----
+## Screenshot
+```bash
+   git clone https://github.com/amirh963/password-generator/tree/main
+
+![Screenshot](Screenshot.jpg)
